@@ -4,8 +4,8 @@ __Dozy contributes to Open Source Development.__
 
 ----
 ## Projects by DOZY:
-- [Doz Messenger](http://wedozy.github.io/doz-messenger)
-- [WhatsApp Multi-Message](http://wedozy.github.io/whatsapp-multi-message) _(For Windows)_
+- [Doz Messenger](https://github.com/weDOZY/doz-messenger)
+- [WhatsApp Multi-Message](https://github.com/weDOZY/whatsapp-multi-message) _(For Windows)_
 
 ---
 ## Contacts and Info:
