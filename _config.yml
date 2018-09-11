@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
-title: Dozy Open Source Projects
+title: Dozy Open Source
+description: Dozy contributes to Open Source.
 logo: DOZY
-show_downloads: "false"
+show_downloads: "true"
